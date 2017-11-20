@@ -15,3 +15,4 @@ int main() {
 	}
 	cout << "Factorial of " << num << " is " << fact;
 }
+ 
