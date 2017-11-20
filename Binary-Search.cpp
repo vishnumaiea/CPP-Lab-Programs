@@ -1,4 +1,4 @@
-/* C++ Program - Binary Search */
+//Searches a number in an array using binary search technique
 
 #include<iostream>
 using namespace std;
