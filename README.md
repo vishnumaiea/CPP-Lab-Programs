@@ -1,4 +1,4 @@
-# C-Lab-Programs
+# C++ Lab Programs
 A set of C++ program examples for graduate students.
 
 All programs were tested using DevC++.
