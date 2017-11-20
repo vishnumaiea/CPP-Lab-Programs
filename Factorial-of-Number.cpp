@@ -1,6 +1,7 @@
 
-#include<iostream>
+//Finds the factorial of a number
 
+#include<iostream>
 using namespace std;
 
 int main() {
